@@ -1,0 +1,22 @@
+.elementor-kit-17{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-6f9711b:#0F2052;--e-global-color-97fc5d1:#FFFFFF;--e-global-color-02f01d5:#858488;--e-global-color-425cd68:#04B662;--e-global-color-753b001:#29C8FF;--e-global-color-7df75df:#EDF0F8;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-c740a4f-font-family:"ProductSans";--e-global-typography-c740a4f-font-size:16px;--e-global-typography-c740a4f-font-weight:400;--e-global-typography-ddcdaf2-font-family:"Poppins";--e-global-typography-ddcdaf2-font-size:12px;--e-global-typography-ddcdaf2-font-weight:600;font-family:"ProductSans", Sans-serif;font-weight:400;}.elementor-kit-17 a{font-family:"ProductSans", Sans-serif;font-size:16px;font-weight:400;}.elementor-kit-17 h1{font-family:"ProductSans", Sans-serif;font-weight:700;}.elementor-kit-17 h2{font-family:"ProductSans", Sans-serif;font-weight:500;}.elementor-kit-17 h3{font-family:"ProductSans", Sans-serif;font-weight:500;}.elementor-kit-17 h4{font-family:"ProductSans", Sans-serif;font-weight:500;}.elementor-kit-17 h5{font-family:"ProductSans", Sans-serif;font-weight:500;}.elementor-kit-17 h6{font-family:"ProductSans", Sans-serif;font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-17 e-page-transition{background-color:#FFBC7D;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'ProductSans';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('http://localhost/test_sm_digital/wp-content/uploads/2023/11/ProductSans-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'ProductSans';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('http://localhost/test_sm_digital/wp-content/uploads/2023/11/ProductSans-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'ProductSans';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('http://localhost/test_sm_digital/wp-content/uploads/2023/11/ProductSans-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
