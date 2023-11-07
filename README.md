@@ -22,5 +22,11 @@ dicha informacion
 2. blog individual
 3. resultados de busqueda
 
+## los acceso a panel admistrativo
+
+usuario: admin 
+contraseña: admin
+
+
 **cree un tema con codigo, pero por motivos de tiempo y conceptos que eh dejado pausado no lo culmine**
 **tome la desicion de hacerlo asi espero puedan calificarlo de ciera manera**
